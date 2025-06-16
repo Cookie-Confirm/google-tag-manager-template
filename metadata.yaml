@@ -2,12 +2,17 @@ homepage: "https://cookieconfirm.com"
 documentation: "https://support.cookieconfirm.com"
 versions:
   - version: 1.0.4
+    sha: 317b1b60b783c3f178f13c9ca81bc768a8361157
     changeNotes: Rename metadata.yml to metadata.yaml
   - version: 1.0.3
+    sha: f7b08cfe7766608b63d62f3da38436b73a323be1
     changeNotes: Update README.md
   - version: 1.0.2
+    sha: 9db5334741c489b3556a297521e294c784dc13c8
     changeNotes: Update ID
   - version: 1.0.1
+    sha: 048334e5e98e8df8a236e4963594637824bb6b22
     changeNotes: Update README.md
   - version: 1.0.0
+    sha: eecf4908e363028ec68fa62cf86304ef1174be7e
     changeNotes: Initial release
