@@ -15,7 +15,7 @@ ___INFO___
   "securityGroups": [],
   "displayName": "Cookie Confirm CMP",
   "brand": {
-    "id": "cookie_confirm_cmp",
+    "id": "cookieconfirm",
     "displayName": "Cookie Confirm CMP"
   },
   "description": "Install the GTM template to activate Cookie Confirm right away.",

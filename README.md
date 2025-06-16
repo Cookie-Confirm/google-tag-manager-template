@@ -13,4 +13,4 @@ CookieConfirm is a full-featured Consent Management Platform (CMP) that makes pr
 - [Vanviegen.com](https://www.vanviegen.com)
 
 ## Support
-?? (English): [https://support.cookieconfirm.com/en](https://support.cookieconfirm.com/en)
+English: [https://support.cookieconfirm.com/en](https://support.cookieconfirm.com/en)
