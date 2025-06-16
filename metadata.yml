@@ -1,0 +1,5 @@
+homepage: "https://cookieconfirm.com"
+documentation: "https://support.cookieconfirm.com"
+versions:
+  - version: 1.0.0
+    changeNotes: Initial release
