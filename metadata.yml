@@ -1,6 +1,8 @@
 homepage: "https://cookieconfirm.com"
 documentation: "https://support.cookieconfirm.com"
 versions:
+  - version: 1.0.3
+    changeNotes: Update README.md
   - version: 1.0.2
     changeNotes: Update ID
   - version: 1.0.1
