@@ -3,7 +3,7 @@ documentation: "https://support.cookieconfirm.com"
 versions:
   - version: 2.0.0
     sha: a2bbcbf853baa690dae02f04ae52e03e56672f76
-    changeNotes: Rename metadata.yml to metadata.yaml
+    changeNotes: Init full original script that sets the consent defaults and updates before the DOM is ready. Final version
   - version: 1.0.4
     sha: 317b1b60b783c3f178f13c9ca81bc768a8361157
     changeNotes: Rename metadata.yml to metadata.yaml
