@@ -1,6 +1,11 @@
 homepage: "https://cookieconfirm.com"
 documentation: "https://support.cookieconfirm.com"
 versions:
+  - version: 2.1.0
+    sha: 4cb15f9d9ac830d2589c02f515580e219b06a4d0
+    changeNotes: In this version we have changed the static consent properties to dynamic. Now it is possible to change
+      your default consent mode. In this version, the only state that is granted, is the security_consent. Feel free to
+      change the settings to your needs.
   - version: 2.0.0
     sha: a2bbcbf853baa690dae02f04ae52e03e56672f76
     changeNotes: Init full original script that sets the consent defaults and updates before the DOM is ready. Final version
