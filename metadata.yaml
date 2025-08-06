@@ -1,6 +1,9 @@
 homepage: "https://cookieconfirm.com"
 documentation: "https://support.cookieconfirm.com"
 versions:
+  - version: 2.1.1
+    sha: b8bce65fb416b2a25e5d5e87a17ead30bd724c45
+    changeNotes: Add modifiable ad_personalization state. Fix default consent state ad_storage
   - version: 2.1.0
     sha: 4cb15f9d9ac830d2589c02f515580e219b06a4d0
     changeNotes: In this version we have changed the static consent properties to dynamic. Now it is possible to change
