@@ -337,11 +337,7 @@ ___WEB_PERMISSIONS___
             "listItem": [
               {
                 "type": 1,
-                "string": "https://assets.cookieconfirm.com/js/consent.js"
-              },
-              {
-                "type": 1,
-                "string": "https://cdn.cookieconfirm.com/public/js/*"
+                "string": "https://*.cookieconfirm.com/js/*.js"
               }
             ]
           }
