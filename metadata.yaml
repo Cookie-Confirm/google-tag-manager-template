@@ -1,6 +1,9 @@
 homepage: "https://cookieconfirm.com"
 documentation: "https://support.cookieconfirm.com"
 versions:
+  - version: 2.1.2
+    sha: e91a34db658ba307edce802ae5d26484d4a3b7ee
+    changeNotes: Add flexibility to tag template injectable scripts
   - version: 2.1.1
     sha: b8bce65fb416b2a25e5d5e87a17ead30bd724c45
     changeNotes: Add modifiable ad_personalization state. Fix default consent state ad_storage
