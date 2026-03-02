@@ -41,7 +41,7 @@ ___TEMPLATE_PARAMETERS___
   {
     "type": "GROUP",
     "name": "default_consent",
-    "displayName": "Default consent initalization (Advanced)",
+    "displayName": "Default consent initialization (Advanced)",
     "groupStyle": "ZIPPY_CLOSED",
     "subParams": [
       {
