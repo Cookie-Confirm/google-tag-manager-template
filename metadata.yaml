@@ -1,6 +1,9 @@
 homepage: "https://cookieconfirm.com"
 documentation: "https://support.cookieconfirm.com"
 versions:
+  - version: 2.1.3
+    sha: 647a9accc38ba73b8e62404e1e87066beb6a237d
+    changeNotes: Fix a typo in the consent_mode_default label
   - version: 2.1.2
     sha: e91a34db658ba307edce802ae5d26484d4a3b7ee
     changeNotes: Add flexibility to tag template injectable scripts
